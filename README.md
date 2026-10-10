@@ -143,6 +143,7 @@ Belum ada.
 
 | Nama | Peran |
 |---|---|
-| Alfarezal Kenzi | [isi peran] |
-| Muhammad Rafa Rizki | [isi peran] |
-| Alya Putri Cahyawati | [isi peran] |
+| Alfarezal Kenzi | [Navigator utama] |
+| Muhammad Rafa Rizki | [Dokumentator] |
+| Alya Putri Cahyawati | [Analis kebutuhan] |
+| Hairuddin | [Penguji] |
