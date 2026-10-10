@@ -31,7 +31,7 @@ Alur ini mengikuti pekerjaan admin pengiriman sehari-hari.
    ```
 2. Masuk ke folder proyek:
    ```
-   cd steampreneur-nama-tim
+   cd steampreneur-EcoChain
    ```
 3. Install dependensi:
    ```
